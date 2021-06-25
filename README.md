@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Muscan
 - 👀 I’m interested in learning OOP
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Internship, Junior Java developer position
-- 📫 How to reach me : via git
+- 💞️ I’m looking to collaborate on Internship, developer position
+- 📫 How to reach me : via git, Linkedin, mail
 
 <!---
 Muscan/Muscan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
