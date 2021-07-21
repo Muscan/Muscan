@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muscan
 - 👀 I’m interested in learning OOP
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Internship, developer position
 - 📫 How to reach me : via git, Linkedin, mail
 
